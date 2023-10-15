@@ -1,6 +1,6 @@
 # Simple Scrapy Spider for MindBodyOnline
 
-Using a basic Spider and the MindBodyOnline I was able to scrape data for gyms all over the USA. The site is rendered in Javascript and Uses an API to get the data. I was able to use that API to scrape the data.
+Using a basic Spider and the MindBodyOnline I was able to scrape data for gyms all over the USA. The site is rendered in Javascript and Uses an API to get the information displayed. Using the API was a big time saver.
 
 ## API
 
